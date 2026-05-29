@@ -13,7 +13,7 @@
 * Integrate Docker with Jenkins
 * Automate the Build and Deploy process using Jenkins
 * Test the deployment
-
+                                                                      
 ### Prerequisites
 
 * AWS Account
