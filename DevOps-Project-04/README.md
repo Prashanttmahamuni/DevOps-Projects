@@ -6,7 +6,7 @@
                                                             
 ## 📋 Table of Contents                    
                         
-- [Overview](#overview)                        
+- [Overview](#overview)                                                  
 - [Prerequisites](#prerequisites)
 - [Project Structure](#project-structure)
 - [Django Web Framework](#django-web-framework)
