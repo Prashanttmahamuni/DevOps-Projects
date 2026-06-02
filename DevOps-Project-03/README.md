@@ -13,7 +13,7 @@ Here are the step-by-step details to set up an **end-to-end Jenkins pipeline for
 - Argo CD
 
 **Steps:**
-
+                    
     1. Install the necessary Jenkins plugins:
        1.1 Git plugin
        1.2 Maven Integration plugin
