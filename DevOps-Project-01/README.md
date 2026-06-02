@@ -3,7 +3,7 @@
 ![AWS Architecture](https://imgur.com/b9iHwVc.png)
                                                                                                                    
 ## Table of Contents                              
-                                                                                     
+                                                                                                             
 1. [Project Overview](#project-overview)
 2. [Architecture Overview](#architecture-overview)
 3. [Pre-Requisites](#pre-requisites)
