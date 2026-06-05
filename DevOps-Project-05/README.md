@@ -1,17 +1,11 @@
 # Deploy your code on a Docker Container using Jenkins on AWS
-
+          
 ![AWS](https://imgur.com/Hk28ffE.png)
-                                                                                                                        
+
 **In this blog, we are going to deploy a Java Web app on a Docker Container built on an EC2 Instance through the use of Jenkins.**
-<<<<<<< HEAD
                                                                                                                                                                 
-### Agenda
-                                                                                                                                                      
-=======
-
-### Agenda
-
->>>>>>> 3a00826 (added project 5)
+### Agenda                                                                                                                                                                 
+                                                                                              
 * Setup Jenkins
 * Setup & Configure Maven and Git
 * Integrating GitHub and Maven with Jenkins
@@ -19,7 +13,7 @@
 * Integrate Docker with Jenkins
 * Automate the Build and Deploy process using Jenkins
 * Test the deployment
-
+                                                                      
 ### Prerequisites
 
 * AWS Account
@@ -520,24 +514,3 @@ Also, we if access our new dockerized app from our browser on port 8087, the res
 
 **Happy Learning!**
 
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
