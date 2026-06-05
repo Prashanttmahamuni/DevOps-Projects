@@ -4,11 +4,11 @@
  
 ### TABLE OF CONTENTS
  
-1. [Goal](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#goal)
-2. [Pre-Requisites](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#pre-requisites)
-3. [Pre-Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#pre-deployment)
-4. [VPC Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#vpc-deployment)
-5. [Validation](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#validation)
+1. [Goal](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#goal)
+2. [Pre-Requisites](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#pre-requisites)
+3. [Pre-Deployment](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#pre-deployment)
+4. [VPC Deployment](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#vpc-deployment)
+5. [Validation](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#validation)
 
 ## Goal
 
@@ -17,7 +17,7 @@ Deploy a Modular and Scalable Virtual Network Architecture with Amazon VPC.
 ## Pre-Requisites
 
 1. You must be having an [AWS account](https://aws.amazon.com/) to create infrastructure resources on AWS cloud.
-2. [Source Code](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/html-web-app)
+2. [Source Code](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/html-web-app)
 
 ## Pre-Deployment
 
