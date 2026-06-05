@@ -4,11 +4,11 @@
  
 ### TABLE OF CONTENTS
  
-1. [Goal](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#goal)
-2. [Pre-Requisites](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#pre-requisites)
-3. [Pre-Deployment](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#pre-deployment)
-4. [VPC Deployment](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#vpc-deployment)
-5. [Validation](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#validation)
+1. [Goal](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#Goal)
+2. [Pre-Requisites](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#Pre-Requisites)
+3. [Pre-Deployment](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#Pre-Deployment)
+4. [VPC Deployment](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#Vpc-Deployment)
+5. [Validation](https://github.com/Prashanttmahamuni/DevOps-Projects/tree/main/DevOps-Project-05/README.md#Validation)
 
 ## Goal
 
