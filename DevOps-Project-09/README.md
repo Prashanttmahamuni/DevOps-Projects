@@ -1,7 +1,7 @@
 # From Scratch to Production: Deploying EKS Clusters and Applications with CI/CD using Jenkins and Terraform
          
 ![alt text](image.png)
-                        
+                                 
 ## Streamlining EKS Deployment and CI/CD: A Step-by-Step Guide to Automating Application Delivery with Jenkins and Terraform
     
 ***Welcome to this step-by-step guide on deploying an EKS cluster and application with complete CI/CD!***
