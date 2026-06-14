@@ -9,7 +9,7 @@
        
 ## Tech stack used in this project:
 - GitHub (Code) 
-- Docker (Containerization)
+- Docker (Containerization) 
 - Jenkins (CI)
 - OWASP (Dependency check)
 - SonarQube (Quality)
