@@ -8,7 +8,7 @@
 #          
        
 ## Tech stack used in this project:
-- GitHub (Code)
+- GitHub (Code) 
 - Docker (Containerization)
 - Jenkins (CI)
 - OWASP (Dependency check)
