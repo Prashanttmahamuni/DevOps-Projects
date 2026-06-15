@@ -558,7 +558,7 @@ helm repo add prometheus-community https://prometheus-community.github.io/helm-c
 kubectl create namespace prometheus
 ```
 ```bash
-kubectl get ns
+kubectl get ns 
 ```
 
 #
