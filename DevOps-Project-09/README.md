@@ -7,7 +7,7 @@
 ***Welcome to this step-by-step guide on deploying an EKS cluster and application with complete CI/CD!***
  
 Are you looking to streamline your application delivery process and automate your infrastructure deployment? Look no further! In this project, I'll take you through the process of setting up an EKS cluster, deploying an application, and creating a CI/CD pipeline using Jenkins and Terraform.
-
+   
 We'll start with the basics and gradually dive deeper into the technical details, so you'll find this guide helpful whether you're a beginner or an experienced DevOps engineer. By the end of this article, you'll have a fully functional EKS cluster and a simple containerized application up and running, with a CI/CD pipeline that automates the entire process from code to production.
 
 ### Let's get started and explore the world of EKS, CI/CD, and automation
