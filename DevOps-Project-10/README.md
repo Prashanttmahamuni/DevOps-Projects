@@ -6,7 +6,7 @@ Before starting, ensure you have a basic understanding of:
         
 * Understanding of CI/CD
             
-* GitLab CI Knowledge 
+* GitLab CI Knowledge             
   
 ## 📝 Prerequisites
  
