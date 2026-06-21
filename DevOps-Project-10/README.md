@@ -11,7 +11,7 @@ Before starting, ensure you have a basic understanding of:
 ## 📝 Prerequisites
  
 1. **AWS Account Creation**
-
+              
     * Check out the official site to create an AWS account [here](https://signin.aws.amazon.com/signup?request_type=register).
 
 2. **GitLab Account**
