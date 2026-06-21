@@ -10,7 +10,7 @@ metadata:
 spec:
   selector:
     matchLabels:
-      app: mario
+      app: mario 
   namespaceSelector:
     matchNames:
     - default
