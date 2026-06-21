@@ -6,7 +6,7 @@ metadata:
     app: mario
   annotations:
     kubernetes.io/description: "HPA for Super Mario game deployment"
-spec:
+spec: 
   scaleTargetRef:
     apiVersion: apps/v1
     kind: Deployment
