@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"  # Change to your preferred region
 }
-
+ 
 # Create an S3 bucket
 resource "aws_s3_bucket" "mybucket" {
     bucket = "s3statefile786"  # Change to a unique bucket name
