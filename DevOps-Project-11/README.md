@@ -607,7 +607,7 @@ kubectl edit svc stable-grafana -n prometheus
 - Check grafana service
 ```bash
 kubectl get svc -n prometheus
-```
+``` 
 
 #
 - Get a password for grafana
