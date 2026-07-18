@@ -4,7 +4,7 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
      
 ![Super Mario](https://imgur.com/Njqsei9.gif)  
 
----
+---   
 
 ## 📌 **Project Overview**
 
