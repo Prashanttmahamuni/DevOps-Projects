@@ -7,7 +7,7 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 ---   
 
 ## 📌 **Project Overview**
-
+    
 This project provisions an **EKS cluster** on AWS and deploys the **Super Mario game** using **Terraform** and **Kubernetes manifests**. The deployment includes:
     
 - ✅ **Amazon EKS Cluster** (v1.29) with latest features
