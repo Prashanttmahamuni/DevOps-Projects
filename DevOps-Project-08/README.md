@@ -2,7 +2,7 @@
     
 Super Mario is a legendary game we all cherish! In this project, we will deploy **Super Mario** on **Amazon EKS (Elastic Kubernetes Service)** using **Terraform** and manage infrastructure with AWS resources.        
                   
-![Super Mario](https://imgur.com/Njqsei9.gif)  
+![Super Mario].   (https://imgur.com/Njqsei9.gif)  
 
 ---   
 
