@@ -9,5 +9,5 @@ const postSchema = new Schema({
   isFeaturedPost: Boolean,
   timeOfPost: { type: Date, default: Date.now },
 });
-
+              
 export default model('Post', postSchema);
