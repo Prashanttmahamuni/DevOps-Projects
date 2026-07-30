@@ -5,7 +5,7 @@ const userSchema = new Schema({
     type: String,
     required: [true, 'User name is required.'],
   },
-  email: {
+  email: {                    
     type: String,              
     required: [true, 'Email is required.'],
   },            
