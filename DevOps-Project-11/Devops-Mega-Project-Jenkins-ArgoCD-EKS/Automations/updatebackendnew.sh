@@ -6,7 +6,7 @@ INSTANCE_ID="i-03f0fa0e41822a1f3"
 # Retrieve the public IP address of the specified EC2 instance
 ipv4_address=$(aws ec2 describe-instances --instance-ids $INSTANCE_ID --query 'Reservations[0].Instances[0].PublicIpAddress' --output text)
 
-# Path to the .env file            
+# Path to the .env file                    
 file_to_find="../backend/.env.docker"            
 
 # Check the current FRONTEND_URL in the .env file
