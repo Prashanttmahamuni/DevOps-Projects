@@ -1,7 +1,7 @@
 # Kubernetes End to End Project on EKS(Amazon Kubernetes Service)
 
 ![EKS](https://imgur.com/oADneqS.png)
-    
+       
 ## **Prerequisites*.           
 
 **kubectl** – A command line tool for working with Kubernetes clusters. For more information, see Installing or updating kubectl.m
