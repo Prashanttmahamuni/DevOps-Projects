@@ -1,5 +1,5 @@
 # Kubernetes End to End Project on EKS(Amazon Kubernetes Service)
-      mmm.  
+  
 ![EKS](https://imgur.com/oADneqS.png)
            
 ## **Prerequisites*.                
