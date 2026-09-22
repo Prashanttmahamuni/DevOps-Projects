@@ -2,7 +2,7 @@
                                            
 Before starting, ensure you have a basic understanding of:
                    
-* Basic Terraform Knowledge
+* Basic Terraform Knowledge.  
                         
 * Understanding of CI/CD      
                                 
