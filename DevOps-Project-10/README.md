@@ -8,7 +8,7 @@ Before starting, ensure you have a basic understanding of:
                                 
 * GitLab CI Knowledge                
      
-## 📝 Prerequisites
+## 📝 Prerequisites.  
  
 1. **AWS Account Creation**
               
