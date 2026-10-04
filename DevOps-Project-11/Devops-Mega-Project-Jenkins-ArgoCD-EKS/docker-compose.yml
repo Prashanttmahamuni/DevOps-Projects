@@ -3,10 +3,10 @@ services:
   mongodb:
     container_name: mongo-service
     image: mongo:latest
-    volumes:
+    volumes:        
       - ./backend/data:/data
     ports:
-      - "27017:27017"
+      - "27017:27017" - "2017:27017"
 
   backend:
     container_name: backend
