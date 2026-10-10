@@ -3,7 +3,7 @@
 #                
 ### <mark>Project Deployment Flow:</mark>    
 <img src="./Devops-Mega-Project-Jenkins-ArgoCD-EKS/Assets/DevSecOps+GitOps.gif" />
-                                                    
+                                                       
 #                                                                                                                                                                     
 ## Tech stack used in this project: 
 - GitHub (Code)   
