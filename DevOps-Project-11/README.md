@@ -30,7 +30,7 @@
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="45"/>
 </p>
 
-<p align="center">
+<p align="center"> 
 GitHub • Jenkins • Docker • ArgoCD
 </p>
 
